@@ -16,6 +16,7 @@
                 $scope.userName = user;
             } else {
                 $scope.userName = false;
+                console.log("dfsfsfg");
             }
         });
 
