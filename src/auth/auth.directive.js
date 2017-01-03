@@ -17,6 +17,7 @@
             } else {
                 $scope.userName = false;
                 console.log("dfsfsfg");
+                alert("fsdfds");
             }
         });
 
