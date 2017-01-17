@@ -7,6 +7,7 @@
 	controller.$inject = ['$scope', 'bundle'];
 	function controller($scope, bundle){
 		$scope.module = bundle;
+		console.log("sdfsdfg");
 	}
 
 })();
